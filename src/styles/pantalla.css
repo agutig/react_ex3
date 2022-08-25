@@ -1,0 +1,15 @@
+
+.screenDiv{
+    height: 12vh;
+    width: 48vw;
+    font-size: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+    background-color: rgb(86, 139, 86);
+}

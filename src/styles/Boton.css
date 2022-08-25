@@ -1,0 +1,38 @@
+
+button{
+    height: 8vh;
+    font-size: 5vh;
+    margin-top: 1vh;
+    border-radius: 15px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.grid{
+    background-color: rgb(78, 78, 78);
+    width: 10.5vw;
+    color: rgb(255, 199, 16);
+    justify-content: center;
+}
+
+.grid_op{
+    width: 10.5vw;
+    justify-content: center;
+    background-color: rgb(255, 199, 16);
+}
+
+.clear{
+    background-color: rgb(78, 78, 78);
+    width: 48vw;
+    color: rgb(255, 199, 16);
+}
+
+.grid:hover , .clear:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 196, 0);
+}
+
+.grid_op:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 196, 0);
+}

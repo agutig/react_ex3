@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  font-size: 8vh;
+}
+.Calculator{
+  border: 2px solid black;
+  width: 50vw;
+  margin: auto;
+  margin-top: 5vh;
+  height: 62.5vh;
+  border-radius: 8px;
+  background-color: rgb(87, 101, 228);
+}
